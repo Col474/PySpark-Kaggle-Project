@@ -1,0 +1,23 @@
+# Downloaded competition data
+train.csv
+test.csv
+data_description.txt
+house-prices-advanced-regression-techniques.zip
+
+# Generated submission files
+submission.csv
+submissionV2.csv
+submission/
+submissionV2/
+
+# Kaggle credentials
+kaggle.json
+
+# Python / Jupyter junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Spark
+spark-warehouse/
+metastore_db/
